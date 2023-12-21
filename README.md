@@ -1,1 +1,1 @@
-# Manual_Testing
+# TestCases and Templates for Manual Software Testing.
